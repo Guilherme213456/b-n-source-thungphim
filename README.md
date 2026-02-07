@@ -3,7 +3,7 @@ Cái thúng phim này mở ra để bán code cho anh em làm phim học tập c
 
 Liên hệ telegram **@liem900s** - Ai mua domain, src gì, hoặc thuê em làm việc dọn dẹp tết sắp tới thì cũng liên hệ nhé. Em làm hết
 
-**DEMO**: HTTPS://THIAPHIM.NET
+**DEMO**: https://thiaphim.net (trang này demo thôi nhé, down khi nào không biết)
 
 ![homepage](https://i.ibb.co/JWZnTtXN/simplesnap-2-5-2026-at-04-14-28.png)
 
